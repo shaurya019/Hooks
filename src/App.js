@@ -5,7 +5,8 @@ import './App.css';
 // import Hookcounterthree from './component/Hookcounterthree'
 // import Hookinarray from './component/Hookinarray'
 // import CountComponent from './component/CountComponent'
-import CounterEffect from './component/CounterEffect'
+// import CounterEffect from './component/CounterEffect'
+import Hookmouse from './component/Hookmouse'
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
       {/* <Hookcounterthree /> */}
       {/* <Hookinarray /> */}
       {/* <CountComponent /> */}
-      <CounterEffect />
+      {/* <CounterEffect /> */}
+      <Hookmouse />
     </div>
   );
 }
