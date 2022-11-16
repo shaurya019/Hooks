@@ -6,7 +6,9 @@ import './App.css';
 // import Hookinarray from './component/Hookinarray'
 // import CountComponent from './component/CountComponent'
 // import CounterEffect from './component/CounterEffect'
-import Hookmouse from './component/Hookmouse'
+// import Hookmouse from './component/Hookmouse'
+// import IntervalCount from './component/IntervalCount'
+import Fetchthedata from './component/Fetchthedata'
 
 function App() {
   return (
@@ -18,7 +20,9 @@ function App() {
       {/* <Hookinarray /> */}
       {/* <CountComponent /> */}
       {/* <CounterEffect /> */}
-      <Hookmouse />
+      {/* <Hookmouse /> */}
+      {/* <IntervalCount /> */}
+      <Fetchthedata/>
     </div>
   );
 }
