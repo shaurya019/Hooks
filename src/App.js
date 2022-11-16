@@ -3,7 +3,9 @@ import './App.css';
 // import Counterhook from './component/Counterhook'
 // import Updateonprevious from './component/Updateonprevious'
 // import Hookcounterthree from './component/Hookcounterthree'
-import Hookinarray from './component/Hookinarray'
+// import Hookinarray from './component/Hookinarray'
+// import CountComponent from './component/CountComponent'
+import CounterEffect from './component/CounterEffect'
 
 function App() {
   return (
@@ -12,7 +14,9 @@ function App() {
       {/* <Counterhook /> */}
       {/* <Updateonprevious /> */}
       {/* <Hookcounterthree /> */}
-      <Hookinarray />
+      {/* <Hookinarray /> */}
+      {/* <CountComponent /> */}
+      <CounterEffect />
     </div>
   );
 }
